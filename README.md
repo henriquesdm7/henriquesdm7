@@ -2,7 +2,7 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=henriquesdm7)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&multiline=true&lines=%3C%3F%3D+%22Hello+World!%22+%3F%3E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5000&multiline=true&lines=%3C%3F%3D+%22Hello+World!%22+%3F%3E)](https://git.io/typing-svg)
 
 <!--
 - 🔭 I’m currently working on ...
